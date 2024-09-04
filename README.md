@@ -1,5 +1,4 @@
 # BrewBuddy
-"""
 BrewBuddy - Coffee Chatbot
 Overview: BrewBuddy is an AI assistant that can be used to train upcoming baristas
 Future Enhancements: BrewBuddy will a mobile used for easy on the go coffee advice from what to order at a
@@ -12,4 +11,4 @@ Credits:
 Notes:
 ***IMPORTANT***
 - error occurrence based on rate limits with openai
-"""****
+
