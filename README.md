@@ -9,8 +9,7 @@ Credits:
 - Gradio (https://github.com/gradio-app/gradio)
 - AIAdvantage (https://github.com/AIAdvantage/chatgpt-api-youtube)
 
-Developed by Kamila Jusino
 Notes:
-    ***IMPORTANT***
+***IMPORTANT***
 - error occurrence based on rate limits with openai
 """****
